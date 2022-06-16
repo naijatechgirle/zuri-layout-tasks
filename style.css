@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body {
-    margin: 7%;
+    margin: 10%;
 }
 .orange {
     background-color: hsl(31, 77%, 52%);
@@ -88,7 +88,7 @@ h1 {
     font-size: 40px;
 }
 
-/* @media only screen and (max-width: 1182px) {
+@media only screen and (max-width: 1182px) {
     .btn {
         padding: 8px 20px;
         border: none;
@@ -97,10 +97,20 @@ h1 {
         margin-top: 10%;
     }
     section {
-        padding: 45px 60px;
+        padding: 45px 30px;
         padding-top: 50px;
     }
-} */
+    p {
+        line-height: 2em;
+        margin: 18px auto; 
+    }
+    .btn {
+        margin-top: 30%;
+    }
+}
+@media only screen and (max-width: 749px) { 
+    
+}
 /* 
 @media only screen and (max-width: 375px) {
     .btn { */
