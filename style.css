@@ -130,9 +130,13 @@ h1 {
         font-size: 15px;
         margin-top: 15%;
     }
+    .sectionOne {
+        border-radius: 30px;
+    }
+    .sectionThree {
+        border-radius: 30px;
+    }
 }
-
-
 @media only screen and (max-width: 375px) {
     main {
         display: block;
