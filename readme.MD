@@ -1,5 +1,5 @@
 # zuri-layout-tasks
 
-# simple landing pages
+simple landing pages
 
-# sample pages for resposivenss
+sample pages for resposivenss
