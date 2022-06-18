@@ -2,4 +2,4 @@
 
 simple landing pages
 
-sample pages for resposivenss
+sample pages for resposivenss using flexbox and grid
